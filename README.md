@@ -1,6 +1,6 @@
 # pypheno
 
-Python package to extract land surface phenology from time series of vegetation indices. The aim of this project is twofold:
+Python package to extract land surface phenology from time series of vegetation indices. Project aims:
 1. Learn about pytest
 2. Revisit the concepts of extracting [Land Surface Phenology](10.1016/j.scitotenv.2017.07.237) (LSP)
 
@@ -26,5 +26,3 @@ Install the package and remaining dependencies:
 GNU GPLv3 -- see https://www.gnu.org/licenses/gpl-3.0.en.html for details.
 
 ## References
-
-The library features implementations implementations of several published scientific articles.
